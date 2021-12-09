@@ -1,5 +1,3 @@
-Welcome to my first post. :grin:
-
 > I made a little standalone utility that **removes global chat** in FiveM servers, very suitable for RP servers.
 
 It also adds a **config file** where you can enable/disable an **OOC chat** that triggers when you don't type any command in the chat, so anything you type in the chat will be formatted as OOC.
